@@ -6,4 +6,6 @@ By action-outcome causality learning people are able to gain a sense of agency w
 
 This study is a step forward to understand how individuals work and perceive sense of agency with an external agent, which may give a hint to further inquiry of computational modeling and analysis of brain activities in the development of agency.
 
+
+
 <img src="https://github.com/Xianqing98/sense-of-agency/blob/main/%E6%88%AA%E5%B1%8F2022-08-28%2016.57.12.png" align="left" width="1000px">
